@@ -5,8 +5,13 @@
     Original code and ASCII art by Dr. Jan Pearce, Berea College
 
     Edits made by:
+ nimelyj
     TODO: < Joyce Nimely> -- to be added by student 1
     TODO: <Add name of student 2 Here> -- to be added by student 2
+
+    TODO: <Add name of student 1 Here> -- to be added by student 1
+     <Dylan Roland> -- to be added by student 2
+ main
     TODO: <Add name of student 3 Here> -- to be added by student 3 (if relevant otherwise, student 2 should remove this line)
  */
 #include <iostream>
@@ -25,7 +30,7 @@ int main() {
         cout << "              <<<(o )_____---" << endl; // TODO: student 1 may change this line and may add additional lines immediately above
         cout << "              <<<(o )_____---" << endl; // student 3(1) may change this line and add additional lines between this line and immediately below
         cout << "               ( .__> /" << endl; // student 3(2) may change this line
-        cout << "                `----' " << endl; // TODO student 2 may change this line and may add lines below
+        cout << "                `----1/" << endl; // TODO student 2 may change this line and may add lines below
     }
 
     return 0; 
